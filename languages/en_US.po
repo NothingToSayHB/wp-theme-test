@@ -1,0 +1,51 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Test\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-07-02 18:09+0300\n"
+"PO-Revision-Date: 2019-07-02 18:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;ecs_html__;ecs_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:56
+msgid "Меню хедер1"
+msgstr "Menu header1"
+
+#: functions.php:57
+msgid "Меню футер2"
+msgstr "Menu footer2"
+
+#: functions.php:81
+msgid "Сайдбар справа"
+msgstr "Saidbar right"
+
+#: functions.php:102
+msgid "Цвет ссылок"
+msgstr "links color"
+
+#: functions.php:110
+msgid "Информация сайта"
+msgstr "site info"
+
+#: functions.php:121
+msgid "Телефон"
+msgstr "phone"
+
+#: functions.php:134
+msgid "Показывать телефон"
+msgstr "show phone"
+
+#: index.php:22
+msgid "Читать далие"
+msgstr "Read more"
